@@ -1,0 +1,18 @@
+body{
+    background-color: lightslategray;
+}
+
+h1{
+    background-color: darkblue;
+    color:aliceblue;
+}
+
+h2{
+    background-color: lightgreen ;
+    color: darkslategrey;
+}
+
+p{
+    background-color: antiquewhite;
+    color: brown;
+}

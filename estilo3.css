@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue;
+}
+form{
+    background-color: whitesmoke;
+}
+input{
+    background-color: lightgoldenrodyellow;
+}
+select{
+    background-color: darkseagreen;
+}
+textarea{
+    background-color: darkgrey;
+}
+
