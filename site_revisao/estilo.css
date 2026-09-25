@@ -1,0 +1,18 @@
+body{
+    background-color: #e9f3f1;
+}
+
+header{
+    background-color: #14564e;
+    color: white;
+    padding: 25px;
+    border-bottom: 6px solid #edc477;
+}
+
+nav{
+    background-color: #e0f1eb;
+    padding: 12px;
+    border-bottom: 2px solid #14564e;
+}
+
+
